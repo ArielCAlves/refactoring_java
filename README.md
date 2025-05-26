@@ -14,7 +14,7 @@
 ## # TP2
 | Descrição                               | Link |
 |:------------------------------------:|:------:|
-| Em Construção | Em Construção |
+| Refatoração do Kata Parrot. | [TP2](https://github.com/ArielCAlves/refactoring_java/tree/main/TP2/TP2_KataParrotRefactoring) |
 
 
 ## # TP3
